@@ -42,10 +42,34 @@ public class Main {
 		multiDimensionalArrayDemo.MultidimensionalArrayDemo1();
 		System.out.println("---------------------------------");
 		
-		//youtube ders 17
+		//youtube ders 17,18,
 		StringsDemo stringsDemo=new StringsDemo();
 		stringsDemo.StringsDemo1();
 		System.out.println("---------------------------------");
+		
+		//youtube ders 19
+		MiniProjeAsalSayı miniProjeAsalSayı=new MiniProjeAsalSayı();
+		miniProjeAsalSayı.MiniProjeAsalSayı1();
+		System.out.println("---------------------------------");
+		
+		//youtube ders 20
+		SesliHarfler sesliHarfler=new SesliHarfler();
+		sesliHarfler.SesliHarfler1();
+		System.out.println("---------------------------------");
+		
+		//youtube ders 21
+		MukemmelSayi mukemmelSayi=new MukemmelSayi();
+		mukemmelSayi.MukemmelSayi1();
+		
+		//youtube ders 22
+		ArkadasSayilar arkadasSayilar=new ArkadasSayilar();
+		arkadasSayilar.ArkadasSayilar1();
+		System.out.println("---------------------------------");
+		
+		//youtube ders 23
+		SayiBulma sayiBulma=new SayiBulma();
+		sayiBulma.SayiBulma1();
+		System.out.println("/////////////// 1. Hafta Bitti ///////////////////");
 	}
 
 }
